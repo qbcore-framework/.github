@@ -14,15 +14,17 @@ Coming Soon!
 </p>
 
 ## 👨‍💻 Meet the team
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhzGarage)](https://ko-fi.com/kakarot)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdrisDose)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkieBb)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheiLLeniumStudios)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deandum)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FildonPrime)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FjamZoo)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsANoBrainer)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewRorke)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullvariable)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sna-aaa)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uShifty)]()
+<p align="center">
+ <a href=https://ko-fi.com/kakarot><img src=https://github-readme-stats.vercel.app/api?username=GhzGarage&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=IdrisDose&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=BerkieBb&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=TheiLLeniumStudios&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=deandum&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=FildonPrime&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=FjamZoo&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=ItsANoBrainer&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=MatthewRorke&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=nullvariable&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=sna-aaa&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+ <img src=https://github-readme-stats.vercel.app/api?username=uShifty&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_title=true&hide_rank=false>
+  </p>
