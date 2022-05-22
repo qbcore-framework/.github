@@ -15,7 +15,7 @@ Coming Soon!
 
 ## 👨‍💻 Meet the team
 <p align="center">
- <a href=https://ko-fi.com/kakarot><img src=https://github-readme-stats.vercel.app/api?username=GhzGarage&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=false&hide_rank=false><a>
+ <a href=https://ko-fi.com/kakarot><img src=https://github-readme-stats.vercel.app/api?username=GhzGarage&count_private=true&show_icons=true&theme=qbcore&layout=compact&hide_title=false&hide_rank=false><a>
  <img src=https://github-readme-stats.vercel.app/api?username=IdrisDose&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=false&hide_rank=false>
  <img src=https://github-readme-stats.vercel.app/api?username=BerkieBb&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=false&hide_rank=false>
  <img src=https://github-readme-stats.vercel.app/api?username=TheiLLeniumStudios&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=false&hide_rank=false>
