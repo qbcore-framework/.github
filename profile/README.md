@@ -6,7 +6,9 @@
 QBCore is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community!
 
 ## 📚 Documentation
-Coming Soon!
+<p>
+  <a href="https://docs.qbcore.org/"><img src="https://media.discordapp.net/attachments/883165186247254127/978317178002612234/NicePng_git-logo-png_3210441.png?width=462&height=95"></a>
+</p>
 
 ## 👉 Join the community
 <p>
