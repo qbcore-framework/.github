@@ -9,9 +9,15 @@ QBCore is an organization that provides open source code for the FiveM community
 https://docs.qbcore.org/
 
 ## 👉 Join the community
-<p>
-  <a href="https://discord.gg/qbcore"><img src="https://discordapp.com/api/guilds/831626422232678481/widget.png?style=banner2" alt="Discord server"></a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qbcore)
+[![Guilded](https://img.shields.io/badge/Guilded-F4C400.svg?style=for-the-badge&logo=guilded&logoColor=white)](https://guilded.gg/qbcore)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/qbcoreframework)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/groups/568926937910479)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/kakarotqb)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/QBCoreFramework)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/qbcore/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/qbrcore/)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kakarot)
 
 ## 👨‍💻 Meet the team
 <p align="center">
